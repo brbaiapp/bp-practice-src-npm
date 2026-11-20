@@ -1,0 +1,10 @@
+{
+  "name": "tinyduration",
+  "version": "1.0.0",
+  "description": "Pipeline end-to-end fixture: duration text to seconds, with one known bug.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  }
+}
